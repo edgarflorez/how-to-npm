@@ -1,0 +1,22 @@
+{
+  "name": "npm_workshop_nodeschool",
+  "version": "1.0.2",
+  "description": "This is practice project to work on all the challenges from the workshop how-to-npm from nodeschool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarflorez/how-to-npm.git"
+  },
+  "author": "Edgar Florez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgarflorez/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/edgarflorez/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "~1.0.3"
+  }
+}
