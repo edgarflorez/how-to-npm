@@ -1,10 +1,15 @@
-# how-to-npm
 
-NPM workshop from nodeschool
+# WORKSHOP how-to-npm | nodeschool
+![how-to-npm repo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdPM0S7eRqiARZNm9dQZ_rjgPnK33i20MDL3XcCpxnejqu2Ts)
 
-# run `npn install`
+*NPM* workshop from nodeschool
+____
 
-# SemVer extends for Semantic Version
+## Install
+run `npn install`
+
+## Semver
+**SemVer** extends for Semantic Version
 
     # 1.2.3
     # ^ ^ ^
@@ -12,10 +17,11 @@ NPM workshop from nodeschool
     # | `---- Minor version. Update for API additions.
     # `------ Major version. Update for breaking API changes.
 
-# http://semver.org.
+[semver website](http://semver.org "semantic version website")
 
+## FINALE
+Final notes from the ***workshop***.
 
-#FINALE
     # There is SO MUCH MORE that npm can do.  Some of the things that we didn't
     # have time to cover in this modest little workshop include:
     # 
@@ -29,3 +35,6 @@ NPM workshop from nodeschool
     # Your adventure is awaiting you at https://www.npmjs.com/
     # 
     # See you on the internet!
+
+## NOTES
+> This workshop lives in their own rep because it could break and complicate the *nodeschool* repo.
